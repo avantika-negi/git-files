@@ -1,2 +1,3 @@
 # git-files
-This is y first repository
+This is my first repository.
+Auther-Avantika negi
